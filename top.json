@@ -1,5 +1,12 @@
 {
     "TopSearch":[
+         {
+            "text":"دانلود آلبوم گذار بهرام نورایی",
+            "Link":"http://dl.pmcmusic.tv/1399/01/Bahram%20-%20Gozaar%20[128]/",
+            "image":"http://dl.pmcmusic.tv/1399/01/Bahram%20-%20Gozaar%20%5B128%5D/Cover.jpg"
+
+        }
+        ,
         {
             "text":"دانلود سریال وایکینگ فصل ششم",
             "Link":"http://s3.dlserver.info/serial/Vikings/06-1080p.x264/",
@@ -12,6 +19,6 @@
             "Link":"http://dl1.doostihaa.com/files/Animation/RVM/S04/720p/",
             "image":"https://www.doostihaa.com/img/uploads/2019/11/Rick-and-Morty-TV-Series.jpg"
         }
-        
+
     ]
 }
